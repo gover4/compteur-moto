@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Taxi meter: black display with red seven-segment "1.5" -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#111111" android:pathData="M28,36h52a6,6 0 0 1 6,6v24a6,6 0 0 1 -6,6h-52a6,6 0 0 1 -6,-6v-24a6,6 0 0 1 6,-6z" />
+    <!-- "1" -->
+    <path android:fillColor="#FF2B1C" android:pathData="M41,41h4v12h-4zM41,55h4v12h-4z" />
+    <!-- "." -->
+    <path android:fillColor="#FF2B1C" android:pathData="M49,63h4v4h-4z" />
+    <!-- "5": top, upper-left, middle, lower-right, bottom -->
+    <path android:fillColor="#FF2B1C" android:pathData="M58,40h16v4h-16zM58,41h4v12h-4zM58,52h16v4h-16zM70,55h4v12h-4zM58,64h16v4h-16z" />
+</vector>

@@ -1,0 +1,7 @@
+out/
+*.keystore
+*.jks
+*.idsig
+.kspass
+/Compteur-Moto.apk
+.tools
